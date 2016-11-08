@@ -11,6 +11,8 @@ namespace Branching
         static void Main(string[] args)
         {
             Console.WriteLine("Test af Git Branch");
+
+            Console.WriteLine("Er nu på develop branch");
         }
     }
 }
